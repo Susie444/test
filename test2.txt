@@ -1,1 +1,6 @@
 This is the second file!
+<<<<<<< HEAD
+Learning Github！
+=======
+I have been learning github
+>>>>>>> 50b753ed1636985720b888f1e1df6ad81712d8ad
